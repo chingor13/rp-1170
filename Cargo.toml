@@ -1,6 +1,6 @@
 [package]
 name = "release-please-issue-1170"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Jeff Ching <chingor@google.com>"]
 edition = "2018"
 
