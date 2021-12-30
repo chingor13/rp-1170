@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "cargo-workspace"
+  ],
+  "packages": {
+    ".": {
+      "release-type": "rust"
+    },
+    "sub-crate": {
+      "release-type": "rust"
+    },
+    "sub-crate2": {
+      "release-type": "rust"
+    }
+  }
+}

@@ -1,5 +1,5 @@
 [package]
-name = "release-please-issue-1170"
+name = "sub-crate2"
 version = "0.1.0"
 authors = ["Jeff Ching <chingor@google.com>"]
 edition = "2018"
@@ -7,6 +7,3 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
-[workspace]
-members = ["sub-crate", "sub-crate2"]
