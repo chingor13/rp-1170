@@ -2,9 +2,9 @@
 # It is not intended for manual editing.
 [[package]]
 name = "release-please-issue-1170"
-version = "0.1.0"
+version = "0.2.0"
 
 [[package]]
 name = "sub-crate"
-version = "0.1.0"
+version = "0.2.0"
 
